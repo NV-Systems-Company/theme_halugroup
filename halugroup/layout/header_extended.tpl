@@ -8,6 +8,7 @@
       <header class="header sticker">
        
          <div class="middle-header">
+         
             <div class="wraper">
                <div class="container">
                   <div class="header-main">
@@ -22,14 +23,15 @@
 						<!-- END: image -->
                      </div>
                      
-                  
-                     
+                  Hotline: 0931.388.009
+                    
                      <div class="box-right">
                         <div class="search headerSearch" style="border:0px;padding:0px;margin-bottom:0px;" onclick="">
                            <i class="fa fa-search"></i>
                            <div class="header_search search_form">
                                  <input type="text" maxlength="{NV_MAX_SEARCH_LENGTH}" placeholder="{LANG.search}..." class="input-group-field st-default-search-input search-text">
                                  <span class="input-group-btn">
+                                 
                                  <button type="button" class="btn icon-fallback-text" data-url="{THEME_SEARCH_URL}" data-minlength="{NV_MIN_SEARCH_LENGTH}" data-click="y">
                                  <i class="fa fa-search"></i>
                                  </button>

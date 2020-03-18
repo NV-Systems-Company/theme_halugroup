@@ -12,6 +12,8 @@
     <!-- BEGIN: company_fax --><li><em class="fa fa-fax"></em><span>{LANG.company_fax}: <span itemprop="faxNumber">{DATA.company_fax}</span></span></li><!-- END: company_fax -->
     <!-- BEGIN: company_email --><li><em class="fa fa-envelope"></em><span>{LANG.company_email}: <!-- BEGIN: item --><!-- BEGIN: comma -->&nbsp; <!-- END: comma --><a href="mailto:{EMAIL}"><span itemprop="email">{EMAIL}</span></a><!-- END: item --></span></li><!-- END: company_email -->
     <!-- BEGIN: company_website --><li><em class="fa fa-globe"></em><span>{LANG.company_website}: <!-- BEGIN: item --><!-- BEGIN: comma -->&nbsp; <!-- END: comma --><a href="{WEBSITE}" target="_blank"><span itemprop="url">{WEBSITE}</span></a><!-- END: item --></span></li><!-- END: company_website -->
+ Nh&#224; m&#225;y 1:KCN H&#7843;i H&#224;, H&#7843;i H&#7853;u, Nam &#272;&#7883;nh</br>
+ Nh&#224; m&#225;y 2:QL21,H&#7843;i V&#226;n,H&#7843;i H&#7853;u,Nam &#272;&#7883;nh
 </ul>
 <!-- BEGIN: company_map_modal -->
 <!-- START FORFOOTER -->

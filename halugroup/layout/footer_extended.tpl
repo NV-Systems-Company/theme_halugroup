@@ -7,7 +7,7 @@
                      <div class="row">
                         <div class="block block-cs col-xs-24 col-sm-12 col-md-7 col-lg-7">
                           [MENU_FOOTER]
-		           <nav class="footerNav2">
+                               <nav class="footerNav2">
                     <!-- BEGIN: theme_type -->
                     <div class="theme-change">
                     <!-- BEGIN: loop -->
